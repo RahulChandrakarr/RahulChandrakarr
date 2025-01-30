@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Chandrakar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img src="https://img.freepik.com/free-vector/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3868.jpg?t=st=1738221594~exp=1738225194~hmac=57421f14aa522832452f380c10089f8e2707f25a26144c118af7f74627f6d198&w=740" alt="Girl in a jacket" width="500" height="600">
-
 <p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya197803&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya197803" /> </p>
 
