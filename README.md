@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **MERN Stack Development**  
-- 🌱 I’m currently learning **MERN Full Stack**  
+- 🌱 I’m currently learning **App Development and Other Technologies**  
 - 👯 I’m looking to collaborate on **web development projects**  
-- 🤝 I’m looking for help with **enhancing my development skills**  
 - 👨‍💻 My LinkedIn Profile: [Rahul Chandrakar](https://www.linkedin.com/in/rahul-kumar-a71518240/)  
 - 📫 How to reach me: **rrahulchandrakar1@gmail.com**  
 
