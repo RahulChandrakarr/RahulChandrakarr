@@ -90,115 +90,134 @@ Built multiple full-stack applications with modern tech stack:
 
 ## 🎯 Featured Projects
 
-### 🔒 PicSafe - Image Copyright Detection Platform
-**SaaS Platform for Copyright Protection**
-- Built with **Next.js** and **Supabase**
-- Integrated **Google Vision API** and **OpenWeb Ninja APIs** for reverse image search
-- Real-time copyright risk analysis and metadata detection
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
+### 🔒 PicSafe
+**Image Copyright Detection Platform**
+
+SaaS platform for copyright protection using Next.js and Supabase. Features Google Vision API integration for reverse image search and real-time copyright risk analysis.
+
+**Tech Stack:** Next.js, Supabase, Google Vision API, Tailwind CSS
+
+<p align="center">
   <a href="https://picsafe.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+    <img src="https://img.shields.io/badge/View_Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
   </a>
-</div>
+</p>
 
-<iframe src="https://picsafe.app/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
+</td>
+<td width="50%">
 
----
+### 🔍 Auditly360
+**Web Auditing Platform**
 
-### 🔍 Auditly360 - Web Auditing Platform
-**Full-Cycle Automated Website Auditing**
-- Developed using **MERN Stack + Next.js** with **Supabase**
-- Integrated **OpenAI** and **Gemini** for intelligent recommendations
-- Rust web-spider for comprehensive site analysis
+Full-cycle automated website auditing with OpenAI and Gemini integration. Rust web-spider for comprehensive site analysis and intelligent recommendations.
 
-<div align="center">
+**Tech Stack:** MERN, Next.js, Supabase, OpenAI, Rust
+
+<p align="center">
   <a href="http://auditly360.com/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+    <img src="https://img.shields.io/badge/View_Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
   </a>
-</div>
+</p>
 
-<iframe src="http://auditly360.com/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
 ### ⭐ Review Management System
-**Custom Review Collection & Display Solution**
-- Built with **Apify Review Scraper**, **Next.js**, and **Supabase**
-- Embeddable review widget for seamless website integration
-- Enhanced business credibility through authentic customer feedback
+**Custom Review Solution**
 
-<div align="center">
+Custom review collection and display solution with Apify Review Scraper. Embeddable widget for seamless website integration and enhanced business credibility.
+
+**Tech Stack:** Next.js, Supabase, Apify, React
+
+<p align="center">
   <a href="https://reviews.webuildtrades.com/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+    <img src="https://img.shields.io/badge/View_Live_Demo-9C27B0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
   </a>
-</div>
+</p>
 
-<iframe src="https://reviews.webuildtrades.com/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
-
----
+</td>
+<td width="50%">
 
 ### 🤖 AI for Trades
-**AI-Powered Platform for Trade Professionals**
-- Advanced AI integration for trade industry solutions
-- Modern authentication and user management system
-- Built with cutting-edge tech stack
+**AI-Powered Trade Platform**
 
-<div align="center">
+AI-powered platform for trade professionals with advanced AI integration, modern authentication system, and user management.
+
+**Tech Stack:** Next.js, AI Integration, Authentication
+
+<p align="center">
   <a href="https://www.aifortrades.co.uk/sign-in" target="_blank">
-    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+    <img src="https://img.shields.io/badge/View_Live_Demo-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
   </a>
-</div>
+</p>
 
-<iframe src="https://www.aifortrades.co.uk/sign-in" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-### 🏢 Bhagwati Oil - Corporate Website
-**Professional Business Portfolio**
-- Responsive corporate website with modern design
-- Optimized performance and SEO
-- Built with **Next.js** and **Tailwind CSS**
+### 🏢 Bhagwati Oil
+**Corporate Website**
 
-<div align="center">
+Professional business portfolio with responsive design, optimized performance, and SEO. Modern corporate presence with smooth animations.
+
+**Tech Stack:** Next.js, Tailwind CSS, Framer Motion
+
+<p align="center">
   <a href="https://bhagwati-oil.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+    <img src="https://img.shields.io/badge/View_Live_Demo-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
   </a>
-</div>
+</p>
 
-<iframe src="https://bhagwati-oil.vercel.app/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
-
----
+</td>
+<td width="50%">
 
 ### 🏗️ SKA Construction
-**Construction Company Portfolio**
-- Modern construction business website
-- Project showcase and service presentation
-- Responsive design with smooth animations
+**Construction Portfolio**
 
-<div align="center">
+Modern construction business website with project showcase, service presentation, and responsive design with smooth animations.
+
+**Tech Stack:** Next.js, React, Tailwind CSS, GSAP
+
+<p align="center">
   <a href="https://ska-teal.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+    <img src="https://img.shields.io/badge/View_Live_Demo-607D8B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
   </a>
-</div>
+</p>
 
-<iframe src="https://ska-teal.vercel.app/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
 ### 💼 My Portfolio
 **Personal Developer Portfolio**
-- Showcasing projects and professional experience
-- Interactive UI with modern animations
-- Built with **React.js** and **Framer Motion**
 
-<div align="center">
+Showcasing projects and professional experience with interactive UI, modern animations, and comprehensive project documentation.
+
+**Tech Stack:** React.js, Framer Motion, Tailwind CSS
+
+<p align="center">
   <a href="https://portfolio-amc-team01.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+    <img src="https://img.shields.io/badge/View_Live_Demo-E91E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
   </a>
-</div>
+</p>
 
-<iframe src="https://portfolio-amc-team01.vercel.app/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
+</td>
+<td width="50%">
+</td>
+</tr>
+
+</table>
 
 ---
 
