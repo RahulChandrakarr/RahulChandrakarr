@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | MERN Stack Specialist | Building Scalable Web Solutions
 
-I'm a passionate Full Stack Developer from India with hands-on experience in building modern, scalable web applications. Currently working at **Sunns Technologies**, I specialize in creating responsive, user-centric solutions using cutting-edge technologies.
+Experienced Full Stack Developer from India specializing in modern web architecture and scalable application development. Currently serving as Software Engineer at **NJ Design Park**, focusing on delivering enterprise-grade solutions with expertise in React.js, Next.js, Node.js, and cloud technologies.
 
 ---
 
@@ -19,7 +19,7 @@ I'm a passionate Full Stack Developer from India with hands-on experience in bui
 
 ## 💼 Work Experience
 
-### **Software Engineer** | Sunns Technologies
+### **Software Engineer** | NJ Design Park, Bhilai
 *July 2025 - Present*
 
 Leading full-stack development initiatives with focus on scalability and modern architecture:
@@ -90,32 +90,115 @@ Built multiple full-stack applications with modern tech stack:
 
 ## 🎯 Featured Projects
 
-### 🔒 [PicSafe](https://github.com/RahulChandrakarr) 
-**SaaS Image Copyright Detection Platform**
+### 🔒 PicSafe - Image Copyright Detection Platform
+**SaaS Platform for Copyright Protection**
 - Built with **Next.js** and **Supabase**
 - Integrated **Google Vision API** and **OpenWeb Ninja APIs** for reverse image search
-- Detects image metadata, visual similarities, and copyright risks
-- Secure, scalable architecture with real-time analysis
+- Real-time copyright risk analysis and metadata detection
 
-### 🔍 [Auilty360](https://github.com/RahulChandrakarr)
-**Full-Cycle Web Auditing Platform**
+<div align="center">
+  <a href="https://picsafe.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+  </a>
+</div>
+
+<iframe src="https://picsafe.app/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
+
+---
+
+### 🔍 Auditly360 - Web Auditing Platform
+**Full-Cycle Automated Website Auditing**
 - Developed using **MERN Stack + Next.js** with **Supabase**
 - Integrated **OpenAI** and **Gemini** for intelligent recommendations
-- Utilized **Rust web-spider service** for deep site scans
-- Delivers automated audit reports and improvement strategies
+- Rust web-spider for comprehensive site analysis
 
-### ⭐ [Review Management System](https://github.com/RahulChandrakarr)
-**Custom Review Collection & Integration**
+<div align="center">
+  <a href="http://auditly360.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+  </a>
+</div>
+
+<iframe src="http://auditly360.com/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
+
+---
+
+### ⭐ Review Management System
+**Custom Review Collection & Display Solution**
 - Built with **Apify Review Scraper**, **Next.js**, and **Supabase**
-- Collects and stores product/service reviews in secure database
-- Developed embeddable review script for websites
-- Enhances credibility and customer trust through automated integration
+- Embeddable review widget for seamless website integration
+- Enhanced business credibility through authentic customer feedback
 
-### 🧠 MindMatch
-**Personality Test Application**
-- Full-stack personality assessment platform
-- Modern UI/UX with smooth animations
-- Built with React.js, Node.js, and MongoDB
+<div align="center">
+  <a href="https://reviews.webuildtrades.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+  </a>
+</div>
+
+<iframe src="https://reviews.webuildtrades.com/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
+
+---
+
+### 🤖 AI for Trades
+**AI-Powered Platform for Trade Professionals**
+- Advanced AI integration for trade industry solutions
+- Modern authentication and user management system
+- Built with cutting-edge tech stack
+
+<div align="center">
+  <a href="https://www.aifortrades.co.uk/sign-in" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+  </a>
+</div>
+
+<iframe src="https://www.aifortrades.co.uk/sign-in" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
+
+---
+
+### 🏢 Bhagwati Oil - Corporate Website
+**Professional Business Portfolio**
+- Responsive corporate website with modern design
+- Optimized performance and SEO
+- Built with **Next.js** and **Tailwind CSS**
+
+<div align="center">
+  <a href="https://bhagwati-oil.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+  </a>
+</div>
+
+<iframe src="https://bhagwati-oil.vercel.app/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
+
+---
+
+### 🏗️ SKA Construction
+**Construction Company Portfolio**
+- Modern construction business website
+- Project showcase and service presentation
+- Responsive design with smooth animations
+
+<div align="center">
+  <a href="https://ska-teal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+  </a>
+</div>
+
+<iframe src="https://ska-teal.vercel.app/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
+
+---
+
+### 💼 My Portfolio
+**Personal Developer Portfolio**
+- Showcasing projects and professional experience
+- Interactive UI with modern animations
+- Built with **React.js** and **Framer Motion**
+
+<div align="center">
+  <a href="https://portfolio-amc-team01.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Live"/>
+  </a>
+</div>
+
+<iframe src="https://portfolio-amc-team01.vercel.app/" width="100%" height="400" frameborder="0" style="border-radius: 8px; margin: 20px 0;"></iframe>
 
 ---
 
